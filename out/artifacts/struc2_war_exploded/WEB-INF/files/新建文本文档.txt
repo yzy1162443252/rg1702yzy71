@@ -1,0 +1,37 @@
+package action;
+import com.opensymphony.xwork2.ActionContext;
+import user.model.book;
+import user.model.drive;
+import java.sql.*;
+import java.lang.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+public class bookaction {
+          private List<book> list1 = new ArrayList<book>();
+          public String read() throws  SQLException {
+          drive drive1 = new drive();
+          drive1.getConnection();
+          Connection con = drive1.getConnection();
+          Statement stmt = con.createStatement();
+          String sql = "select * from books";
+          ResultSet rs = stmt.executeQuery(sql);
+                while (rs.next()) {
+                book book1 = new book();
+                book1.setISBN(rs.getString("ISBN"));
+                book1.setTitle(rs.getString("Title"));
+                book1.setAuthorID(rs.getString("AuthorID"));
+                book1.setPublisher(rs.getString("Publisher"));
+                book1.setPublishdate(rs.getString("Publishdate"));
+                book1.setPrice(rs.getString("Price"));
+                list1.add(book1);
+            }
+            ActionContext actionContext = ActionContext.getContext();
+            Map session = actionContext.getSession();
+            session.put("list",list1);
+
+        return  "success";
+    }
+
+
+}

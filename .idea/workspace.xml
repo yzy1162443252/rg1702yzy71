@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="struc2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e832d17-6503-45b9-9e26-bcb4bd25774c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="struc2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="struts_2_5" />
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1SrQrvmQOKKnaZCDQS9PaIZYjLR" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\666\Desktop\软工1702_20172202971_杨宗耀\struc2\web" />
+      <recent name="C:\Users\666\Desktop\软工1702_20172202971_杨宗耀\struc2\out\artifacts\struc2_war_exploded\car_pic" />
+      <recent name="C:\Users\666\Desktop\软工1702_20172202971_杨宗耀\struc2\out\artifacts\struc2_war_exploded" />
+      <recent name="C:\Users\666\Desktop\软工1702_20172202971_杨宗耀\struc2\web\car_pic" />
+      <recent name="C:\Users\666\Desktop\软工1702_20172202971_杨宗耀\struc2\out\artifacts\struc2_war_exploded\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\666\Desktop\软工1702_20172202971_杨宗耀\struc2\web\sculpture" />
+      <recent name="C:\Users\666\Desktop\软工1702_20172202971_杨宗耀\struc2\web" />
+      <recent name="C:\Users\666\Desktop\软工1702_20172202971_杨宗耀\struc2\web\css" />
+      <recent name="C:\Users\666\IdeaProjects\struc2\src" />
+      <recent name="C:\Users\666\IdeaProjects\struc2\src\action" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.try_login.jsp">
+    <configuration name="try_login.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/struc2_war_exploded/try_login.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="try_login.jsp (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/try_login.jsp" />
+      <deployment>
+        <artifact name="struc2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/struc2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="try_login_jsp_(1)_struc2_(1)" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="struc2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="try_login.jsp (2)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/try_login.jsp" />
+      <deployment>
+        <artifact name="struc2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/struc2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="try_login_jsp_(2)_struc2_(1)" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="struc2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="try_login.jsp (3)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/try_login.jsp" />
+      <deployment>
+        <artifact name="struc2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/struc2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="try_login_jsp_(3)_rg1702yzy71" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="struc2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="try_login.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/try_login.jsp" />
+      <deployment>
+        <artifact name="struc2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/struc2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="try_login_jsp_struc2_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="struc2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.try_login.jsp" />
+      <item itemvalue="Tomcat Server.try_login.jsp" />
+      <item itemvalue="Tomcat Server.try_login.jsp (1)" />
+      <item itemvalue="Tomcat Server.try_login.jsp (2)" />
+      <item itemvalue="Tomcat Server.try_login.jsp (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.try_login.jsp" />
+        <item itemvalue="Tomcat Server.try_login.jsp (3)" />
+        <item itemvalue="Tomcat Server.try_login.jsp (2)" />
+        <item itemvalue="Tomcat Server.try_login.jsp (1)" />
+        <item itemvalue="Tomcat Server.try_login.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e832d17-6503-45b9-9e26-bcb4bd25774c" name="Default Changelist" comment="" />
+      <created>1572319436824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572319436824</updated>
+      <workItem from="1572319441423" duration="1394000" />
+      <workItem from="1572443747762" duration="5263000" />
+      <workItem from="1572487764172" duration="4006000" />
+      <workItem from="1573092781751" duration="30000" />
+      <workItem from="1573096984695" duration="67000" />
+      <workItem from="1573110772930" duration="4522000" />
+      <workItem from="1573478804620" duration="5879000" />
+      <workItem from="1573524203688" duration="7695000" />
+      <workItem from="1573649154084" duration="9693000" />
+      <workItem from="1573697262991" duration="4630000" />
+      <workItem from="1573711336731" duration="5806000" />
+      <workItem from="1573737464339" duration="2643000" />
+      <workItem from="1574302169132" duration="2222000" />
+      <workItem from="1574316088714" duration="2828000" />
+      <workItem from="1574689065197" duration="601000" />
+      <workItem from="1574733912534" duration="1730000" />
+      <workItem from="1574922980026" duration="2944000" />
+      <workItem from="1574949727308" duration="334000" />
+      <workItem from="1575030272553" duration="5351000" />
+      <workItem from="1575181223877" duration="598000" />
+      <workItem from="1575525580637" duration="3549000" />
+      <workItem from="1575640567363" duration="203000" />
+      <workItem from="1575646606367" duration="3665000" />
+      <workItem from="1575803742212" duration="3990000" />
+      <workItem from="1575900166067" duration="2918000" />
+      <workItem from="1575943553577" duration="1905000" />
+      <workItem from="1575986208601" duration="9232000" />
+      <workItem from="1576039093401" duration="2466000" />
+      <workItem from="1576808623325" duration="16242000" />
+      <workItem from="1576849595583" duration="4573000" />
+      <workItem from="1576854203993" duration="12000" />
+      <workItem from="1576886951223" duration="24992000" />
+      <workItem from="1576973918494" duration="16627000" />
+      <workItem from="1577066616594" duration="18851000" />
+      <workItem from="1577108399408" duration="1851000" />
+      <workItem from="1577146837255" duration="21838000" />
+      <workItem from="1577187638642" duration="282000" />
+      <workItem from="1577234041524" duration="21252000" />
+      <workItem from="1577328157494" duration="12157000" />
+      <workItem from="1577355697933" duration="6239000" />
+      <workItem from="1577369307935" duration="2022000" />
+      <workItem from="1577413613422" duration="4620000" />
+      <workItem from="1593172865777" duration="542000" />
+      <workItem from="1593173489167" duration="566000" />
+      <workItem from="1593174577483" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
